@@ -37,3 +37,6 @@ jobs:
     - name: Run Configuration Manager
       run: |
         python user_configuration_manager.py
+
+    - name: Build Docker Image
+      run: docker build -t user-configuration-manager .
