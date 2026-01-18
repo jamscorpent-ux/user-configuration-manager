@@ -68,5 +68,3 @@ test_settings = {
 }
 
 
-** end of main.py **
-
