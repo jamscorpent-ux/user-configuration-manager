@@ -1,3 +1,5 @@
+[![Python application](https://github.com/jamscorpent-ux/user-configuration-manager/actions/workflows/python-app.yml/badge.svg)](https://github.com/jamscorpent-ux/user-configuration-manager/actions/workflows/python-app.yml)
+
 # User Configuration Manager
 
 A lightweight Python-based tool designed to manage user settings using dictionaries. This project was developed as part of a **freeCodeCamp (FCC)** certification challenge.
