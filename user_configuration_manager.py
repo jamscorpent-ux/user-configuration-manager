@@ -1,5 +1,3 @@
-** start of main.py **
-
 def add_setting(settings, pair):
     # 1. Extract and convert to lowercase
     key, value = pair
